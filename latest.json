@@ -12,11 +12,11 @@
     "Güncelleme Oluştur işlemi artık masaüstüne dosya bırakmak yerine imzalı yayın klasörünü yeniler.",
     "Müşteri sürümünden güncelleme oluşturma/yayınlama yetkisi kaldırıldı."
   ],
-  "published_at": "2026-08-17 11:10:31",
+  "published_at": "2026-08-17 11:22:31",
   "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/M300/MaliMusavirProgrami_Update_M300.zip",
-  "package_sha256": "eb0e0ab1573533701ef254d3efaeb8b45b9bf9816f84053bdb7ce54e0ef01d73",
-  "package_size": 108157083,
+  "package_sha256": "20d891171e3441f4f22bdbcf775acc899f85ff25a398095b4c0d1d83f191a2f1",
+  "package_size": 108158233,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "7QQx3fmT0EnUZQpg+Glx1Kj1Sr2jz5gLw3DTCGoA/HkF60c6x1uF+rDXkqNoL5w7WGOdt0o0VDzpOolLiFHuBw=="
+  "signature": "c68a8tZ802xdm/4zKoU0tFkuS03XQVSw4sd/wfpngDP2k/kBmR0v/zv1aPLeW0SlMugEWLQI97qRpJZ2/HgABQ=="
 }
