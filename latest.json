@@ -1,18 +1,22 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G2",
-  "title": "G2 Güncellemesi",
+  "version": "G3",
+  "title": "G3 Güncelleme Denetimi Dayanıklılığı",
   "notes": [
-    "Program dosyaları güncellendi.",
-    "WinError 32 dosya kilidi giderildi; G1 ve eski M sürümleri G2’ye güvenle geçer.",
-    "GitHub geçici 429/5xx yanıtlarında otomatik yeniden deneme eklendi."
+    "GitHub istek sınırına (HTTP 429) takılan bilgisayarlarda güncelleme artık görünmez olmuyor.",
+    "Güncelleme bildirimi, GitHub yanıt vermezse bağımsız yedek kaynaklardan okunuyor.",
+    "Sunucunun Retry-After yanıtına uyuluyor; yeniden deneme süresi 4,5 saniyeden 60 saniyeye çıkarıldı.",
+    "Son doğrulanmış güncelleme bildirimi yerelde saklanıyor; geçici ağ kesintisinde güncelleme kaybolmuyor.",
+    "Önbellekten okunan bildirim de Ed25519 imza denetiminden geçiyor; kurcalanmış kayıt reddediliyor.",
+    "Arka plan güncelleme denetiminin sonucu logs/guncelleme_denetim.log dosyasına yazılıyor.",
+    "Tanınmayan sürüm biçiminde sessiz kalmak yerine açıklayıcı uyarı gösteriliyor."
   ],
-  "published_at": "2026-08-17 16:50:02",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G2/MaliMusavirProgrami_Update_G2_KilitGuvenli.zip",
-  "package_sha256": "2411588748de3fb5539caa2a9740147df60a919fc2e84c40ea106de54090300e",
-  "package_size": 123130777,
+  "published_at": "2026-08-17 17:51:53",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G3/MaliMusavirProgrami_Update_G3.zip",
+  "package_sha256": "1d6a5520c1f40d16ba9bf75aabfa9a25ee70690ca9a309197e0dba40c359d12f",
+  "package_size": 108186538,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "hfel//pLKSPvGdYVltrf/Py0h6mnswoIB/34vQCM+vt3zrN25OdCgtRCfl5SML6dYUb31SFKKAbReNUxvHkGBw=="
+  "signature": "Cs9FMELUTvN9Y0Lec9Mj2ZG0iqU5BUu+Of1LMVWXm60g+htIGgAKaZhjOWTiYHUog+mfoxvC+BKGhRaAYxU5AQ=="
 }
