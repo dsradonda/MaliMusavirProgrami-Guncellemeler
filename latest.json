@@ -1,22 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G4",
-  "title": "G4 Güncelleme Denetimi Dayanıklılığı",
+  "version": "G5",
+  "title": "G5 Güncellemesi",
   "notes": [
-    "GitHub istek sınırına (HTTP 429) takılan bilgisayarlarda güncelleme artık görünmez olmuyor.",
-    "Güncelleme bildirimi, GitHub yanıt vermezse bağımsız yedek kaynaklardan okunuyor.",
-    "Sunucunun Retry-After yanıtına uyuluyor; yeniden deneme süresi 4,5 saniyeden 60 saniyeye çıkarıldı.",
-    "Son doğrulanmış güncelleme bildirimi yerelde saklanıyor; geçici ağ kesintisinde güncelleme kaybolmuyor.",
-    "Önbellekten okunan bildirim de Ed25519 imza denetiminden geçiyor; kurcalanmış kayıt reddediliyor.",
-    "Arka plan güncelleme denetiminin sonucu logs/guncelleme_denetim.log dosyasına yazılıyor.",
-    "Tanınmayan sürüm biçiminde sessiz kalmak yerine açıklayıcı uyarı gösteriliyor."
+    "Program dosyaları güncellendi."
   ],
-  "published_at": "2026-08-17 18:31:45",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G4/MaliMusavirProgrami_Update_G4.zip",
-  "package_sha256": "536e623e674397f84a787034cc82196b42dd737304b893eaee461b156ac0dfe8",
-  "package_size": 108189869,
+  "published_at": "2026-08-17 19:03:20",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G5/MaliMusavirProgrami_Update_G5.zip",
+  "package_sha256": "43ceb56c25f8ce4e1b2863dbb841af19628ec8576275ea2f92bf7dc920ef4411",
+  "package_size": 108186951,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "6Tz3aEQ/QPUyP0IhGGOKtOMjQO0nnJ2pKGAwIImwX7cAOORxAReyP6KILGuKDdO6Q0HKng4fnJ+Nyo/ebzQBCw=="
+  "signature": "tGuJ7/JtaPYff6CB0dmXTEOyVwMQjSxdjdq+sfYVCjCffL7aCtw2etvA7h9ILzMyim99K/+RpkOhiPMxXOGWAw=="
 }
