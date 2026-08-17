@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "app_id": "mali-musavir-programi",
+  "version": "M300",
+  "title": "M300 Yönetici/Müşteri Kurulumu ve Güvenli Uzaktan Güncelleme",
+  "notes": [
+    "Yönetici ve müşteri için birbirinden ayrı, eksiksiz Windows kurulum paketleri eklendi.",
+    "Müşteri bilgisayarları program açıldığında yönetici bilgisayarındaki yeni sürümü otomatik denetler.",
+    "Güncellemeler Ed25519 dijital imza ve SHA-256 ile doğrulanmadan kurulmaz.",
+    "Müşteri bilgisayarında Python gerektirmeyen bağımsız güncelleyici eklendi.",
+    "Güncelleme öncesi otomatik yedek ve hata halinde otomatik geri dönüş korundu.",
+    "Güncelleme Oluştur işlemi artık masaüstüne dosya bırakmak yerine imzalı yayın klasörünü yeniler.",
+    "Müşteri sürümünden güncelleme oluşturma/yayınlama yetkisi kaldırıldı."
+  ],
+  "published_at": "2026-08-17 11:08:47",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/untagged-fe76beb1282ff5245b94/MaliMusavirProgrami_Update_M300.zip",
+  "package_sha256": "eb0e0ab1573533701ef254d3efaeb8b45b9bf9816f84053bdb7ce54e0ef01d73",
+  "package_size": 108157083,
+  "mandatory": false,
+  "signature_algorithm": "Ed25519",
+  "signature": "xzuTBjZLciRhjXvTEkmhxtpxCSGV9ZmDwF5gC5zQO5TE/em37d0JQtqPUIjkBg2/P+xUde4mpQ2TURER2dzGBQ=="
+}
