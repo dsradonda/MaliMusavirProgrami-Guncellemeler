@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G3",
-  "title": "G3 Güncelleme Denetimi Dayanıklılığı",
+  "version": "G4",
+  "title": "G4 Güncelleme Denetimi Dayanıklılığı",
   "notes": [
     "GitHub istek sınırına (HTTP 429) takılan bilgisayarlarda güncelleme artık görünmez olmuyor.",
     "Güncelleme bildirimi, GitHub yanıt vermezse bağımsız yedek kaynaklardan okunuyor.",
@@ -12,11 +12,11 @@
     "Arka plan güncelleme denetiminin sonucu logs/guncelleme_denetim.log dosyasına yazılıyor.",
     "Tanınmayan sürüm biçiminde sessiz kalmak yerine açıklayıcı uyarı gösteriliyor."
   ],
-  "published_at": "2026-08-17 17:51:53",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G3/MaliMusavirProgrami_Update_G3.zip",
-  "package_sha256": "1d6a5520c1f40d16ba9bf75aabfa9a25ee70690ca9a309197e0dba40c359d12f",
-  "package_size": 108186538,
+  "published_at": "2026-08-17 18:31:45",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G4/MaliMusavirProgrami_Update_G4.zip",
+  "package_sha256": "536e623e674397f84a787034cc82196b42dd737304b893eaee461b156ac0dfe8",
+  "package_size": 108189869,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "Cs9FMELUTvN9Y0Lec9Mj2ZG0iqU5BUu+Of1LMVWXm60g+htIGgAKaZhjOWTiYHUog+mfoxvC+BKGhRaAYxU5AQ=="
+  "signature": "6Tz3aEQ/QPUyP0IhGGOKtOMjQO0nnJ2pKGAwIImwX7cAOORxAReyP6KILGuKDdO6Q0HKng4fnJ+Nyo/ebzQBCw=="
 }
