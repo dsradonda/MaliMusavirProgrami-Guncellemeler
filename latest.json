@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G5",
-  "title": "G5 Güncellemesi",
+  "version": "G6",
+  "title": "G6 Güncellemesi",
   "notes": [
     "Program dosyaları güncellendi."
   ],
-  "published_at": "2026-08-17 19:03:20",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G5/MaliMusavirProgrami_Update_G5.zip",
-  "package_sha256": "43ceb56c25f8ce4e1b2863dbb841af19628ec8576275ea2f92bf7dc920ef4411",
-  "package_size": 108186951,
+  "published_at": "2026-08-17 19:45:36",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G6/MaliMusavirProgrami_Update_G6.zip",
+  "package_sha256": "3e88405c5d6ed18262598577c00fce958160a74413c1234e8017650c4ac51d46",
+  "package_size": 108188342,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "tGuJ7/JtaPYff6CB0dmXTEOyVwMQjSxdjdq+sfYVCjCffL7aCtw2etvA7h9ILzMyim99K/+RpkOhiPMxXOGWAw=="
+  "signature": "SDpfdWvGrX/CI1qmB6XqA1K+Xl9n2xMgLb25/rEZgQ1Vg1lAu/EIAefHZCyAzCswsYJgrfND+XPgOQgOrEQIBg=="
 }
