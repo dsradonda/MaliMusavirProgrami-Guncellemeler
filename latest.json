@@ -1,22 +1,20 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "M300",
-  "title": "M300 Yönetici/Müşteri Kurulumu ve Güvenli Uzaktan Güncelleme",
+  "version": "M301",
+  "title": "M301 Hafızadan İşle Hesap Kodu Güvenliği",
   "notes": [
-    "Yönetici ve müşteri için birbirinden ayrı, eksiksiz Windows kurulum paketleri eklendi.",
-    "Müşteri bilgisayarları program açıldığında yönetici bilgisayarındaki yeni sürümü otomatik denetler.",
-    "Güncellemeler Ed25519 dijital imza ve SHA-256 ile doğrulanmadan kurulmaz.",
-    "Müşteri bilgisayarında Python gerektirmeyen bağımsız güncelleyici eklendi.",
-    "Güncelleme öncesi otomatik yedek ve hata halinde otomatik geri dönüş korundu.",
-    "Güncelleme Oluştur işlemi artık masaüstüne dosya bırakmak yerine imzalı yayın klasörünü yeniler.",
-    "Müşteri sürümünden güncelleme oluşturma/yayınlama yetkisi kaldırıldı."
+    "Hafızadan İşle, aktif KDV satırlarından herhangi birinin hesap kodu boşsa belgeyi artık işlenmiş saymaz.",
+    "%1 matrah/KDV satırı hesap kodu olmadan yeşil duruma geçmez; eksik oran sarı uyarıyla gösterilir.",
+    "Eksik hesap kodu sonradan tamamlanırsa belge yeniden kayda hazır duruma geçer.",
+    "Tam güncelleme paketi M1'den M300'e kadar tüm kurulu sürümlerden M301'e geçişi destekler.",
+    "Başka mali müşavir bilgisayarları için M301 müşteri kurulum paketi hazırlanabilir."
   ],
-  "published_at": "2026-08-17 11:22:31",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/M300/MaliMusavirProgrami_Update_M300.zip",
-  "package_sha256": "20d891171e3441f4f22bdbcf775acc899f85ff25a398095b4c0d1d83f191a2f1",
-  "package_size": 108158233,
+  "published_at": "2026-08-17 13:48:02",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/M301/MaliMusavirProgrami_Update_M301.zip",
+  "package_sha256": "fd8a7498e42d9f7efd4d90298f85f3dac303030a3cc2c39e52eec77b65791219",
+  "package_size": 108160208,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "c68a8tZ802xdm/4zKoU0tFkuS03XQVSw4sd/wfpngDP2k/kBmR0v/zv1aPLeW0SlMugEWLQI97qRpJZ2/HgABQ=="
+  "signature": "4gCfTCyPW4FBgY0Gv+4TJ/+TyFz+oKZ99KL3KA4q/6vrccace99eDmeNcpcQTe7LF1G9CMqmtRxnS259cCohBQ=="
 }
