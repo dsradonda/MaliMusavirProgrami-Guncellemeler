@@ -4,13 +4,14 @@
   "version": "G2",
   "title": "G2 Güncellemesi",
   "notes": [
-    "Program dosyaları güncellendi."
+    "Program dosyaları güncellendi.",
+    "WinError 32 dosya kilidi giderildi; G1 ve eski M sürümleri G2’ye güvenle geçer."
   ],
-  "published_at": "2026-08-17 16:20:49",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G2/MaliMusavirProgrami_Update_G2.zip",
-  "package_sha256": "2996d9162c08a6b794dff1082f3818d04907bd7cad841ce7b30f09d5f8326c4f",
-  "package_size": 108181100,
+  "published_at": "2026-08-17 16:38:48",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G2/MaliMusavirProgrami_Update_G2_KilitGuvenli.zip",
+  "package_sha256": "35540a375e6fa4040f31020cf4bcc60571e6cd5aba78e7bf9d21a36ef6d1bbf5",
+  "package_size": 123130878,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "kSbuA2yO60yU2Vq+zOy6tJQmyXHFAQVwM5uG39Nm8BmeoCK/Ow/EUkxnQyqd4xhT1XMrj8nDpmIj1FZcSC13AA=="
+  "signature": "ozQkhBPGzIDfePPl+/Ot+sHrQxTRAYB3NDhHdLzcaf1nQu5oeYXkWwqzj/74W4eTL1e+A52gWxcr8ZbBDp4HAA=="
 }
