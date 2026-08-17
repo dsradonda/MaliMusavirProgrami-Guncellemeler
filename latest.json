@@ -1,23 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G1",
-  "title": "G1 Güvenli Seri Geçişi",
+  "version": "G2",
+  "title": "G2 Güncellemesi",
   "notes": [
-    "Hafızadan İşle, hesap kodu olmayan KDV satırlarını işlenmiş saymaz.",
-    "%1 KDV satırında hesap kodu eksikse belge açık uyarıyla bekletilir.",
-    "G sürüm serisi başlatıldı; M301 paketi ve eski M sürüm geçmişi değişmeden korundu.",
-    "G1 tam paketi M1-M301 arasındaki kurulumlardan güvenli geçişi destekler.",
-    "Yönetici ve müşteri kurulumları ayrıldı; müşteri paketine özel yayın anahtarı konulmaz.",
-    "Ürün bazlı ayrılıp düzeltilen fatura satırları, Faturayı Onayla sırasında tek satıra veya oran satırına dönüşmez.",
-    "Tevkifatlı faturada tevkifat tutarı ikinci kez fark sayılmaz; 504 TL gibi sahte fark uyarıları engellenir.",
-    "Tevkifat oranı onay, kayıt ve ALTOS aktarım akışında korunur; eksikse fatura tutarlarından güvenle türetilir."
+    "Program dosyaları güncellendi."
   ],
-  "published_at": "2026-08-17 14:46:32",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G1/MaliMusavirProgrami_Update_G1.zip",
-  "package_sha256": "0dc7f0e2736f94bf71e04c857faf0592d5f6a6068d95b7244b3e0cd7a1feefe7",
-  "package_size": 108166747,
+  "published_at": "2026-08-17 16:20:49",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G2/MaliMusavirProgrami_Update_G2.zip",
+  "package_sha256": "2996d9162c08a6b794dff1082f3818d04907bd7cad841ce7b30f09d5f8326c4f",
+  "package_size": 108181100,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "5hJ5RVrMV+AN+IDObToO0rKJzNQqhEuqBx5aXdRsJag/KkgMqIu874OrMKSEz/KhcmKPnnaKeOpQPSlTkW5rAA=="
+  "signature": "kSbuA2yO60yU2Vq+zOy6tJQmyXHFAQVwM5uG39Nm8BmeoCK/Ow/EUkxnQyqd4xhT1XMrj8nDpmIj1FZcSC13AA=="
 }
