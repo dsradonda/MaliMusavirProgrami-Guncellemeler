@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G7",
-  "title": "G7 Güncellemesi",
+  "version": "G8",
+  "title": "G8 Güncellemesi",
   "notes": [
-    "İkinci El Araç Özel Matrah akışındaki tüm düzeltmeleri kısaca listeledim, sonunda da eski (bozuk kayıtlı) faturaların yeniden onaylanması gerektiğini hatırlattım. İkinci El Araç Özel Matrah akışındaki tüm düzeltmeleri kısaca listeledim, sonunda da eski (bozuk kayıtlı) faturaların yeniden onaylanması gerektiğini hatırlattım."
+    "muhammed"
   ],
-  "published_at": "2026-08-18 17:49:37",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G7/MaliMusavirProgrami_Update_G7.zip",
-  "package_sha256": "81f1a8b69af366945b67e86975a35afa9df6311d1e6a72e3a33067044f3d5484",
-  "package_size": 108218971,
+  "published_at": "2026-08-20 14:19:18",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G8/MaliMusavirProgrami_Update_G8.zip",
+  "package_sha256": "89170ca592a2a2f5b10ffdbeac4d8ac10163ef33d9102c72ec1b6b8f3cbc691f",
+  "package_size": 108506669,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "qT+i6uUfKNatToY42TfK7b/1V/UNc4mOi/ki0LU4n1N6tPccrotBSlaxBsNpDSghdupmXa44o74m6jmvGHFiAA=="
+  "signature": "8I12cgC/jmxRG5Ejk5aF6rCnKyrxhpTYRvdt9PyZnCxarMz4o4KOFbRjwNnZwiqhqHzEPp2mPXYnygWunHGHBw=="
 }
