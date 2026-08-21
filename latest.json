@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G8",
-  "title": "G8 Güncellemesi",
+  "version": "G9",
+  "title": "G9 Güncellemesi",
   "notes": [
-    "muhammed"
+    "YAPAY ZEKA"
   ],
-  "published_at": "2026-08-20 14:19:18",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G8/MaliMusavirProgrami_Update_G8.zip",
-  "package_sha256": "89170ca592a2a2f5b10ffdbeac4d8ac10163ef33d9102c72ec1b6b8f3cbc691f",
-  "package_size": 108506669,
+  "published_at": "2026-08-21 21:32:21",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G9/MaliMusavirProgrami_Update_G9.zip",
+  "package_sha256": "d42c44300a8df374b9a022f5845cc1e0059f21540939eddb8d85f72746c104ad",
+  "package_size": 108609651,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "8I12cgC/jmxRG5Ejk5aF6rCnKyrxhpTYRvdt9PyZnCxarMz4o4KOFbRjwNnZwiqhqHzEPp2mPXYnygWunHGHBw=="
+  "signature": "XNlwBTpQffyi0pLyKAbFrZoav8ShPFUwRBk92S+Jdaj3rR2xt8xxWYs0hXeGLQdtMVEyraiCfFw16KCE5HE4DA=="
 }
