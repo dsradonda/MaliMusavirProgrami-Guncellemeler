@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G9",
-  "title": "G9 Güncellemesi",
+  "version": "G10",
+  "title": "G10 Güncellemesi",
   "notes": [
-    "YAPAY ZEKA"
+    "GÜNCELEME"
   ],
-  "published_at": "2026-08-21 21:32:21",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G9/MaliMusavirProgrami_Update_G9.zip",
-  "package_sha256": "d42c44300a8df374b9a022f5845cc1e0059f21540939eddb8d85f72746c104ad",
-  "package_size": 108609651,
+  "published_at": "2026-08-23 23:00:51",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G10/MaliMusavirProgrami_Update_G10.zip",
+  "package_sha256": "79522602a65704ac9200a8c024003579e9c5c56c866d10345331b594837bd7c1",
+  "package_size": 108743959,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "XNlwBTpQffyi0pLyKAbFrZoav8ShPFUwRBk92S+Jdaj3rR2xt8xxWYs0hXeGLQdtMVEyraiCfFw16KCE5HE4DA=="
+  "signature": "N9kkiaOWNHpO9U8aDW+vjmXP/zKBLozh8nSH2Z/x+Zl/PXG5OM+ul0b3XXInLEXxZ2jJDypTKgApQqwP5HmmCQ=="
 }
