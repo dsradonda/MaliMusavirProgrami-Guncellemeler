@@ -1,16 +1,17 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G11",
-  "title": "G11 Güncellemesi",
+  "version": "G12",
+  "title": "G12 ALTOS Şablon Düzeltmesi",
   "notes": [
-    "G11"
+    "Güncelleme ile kurulan programlarda ALTOS Excel Toplu Aktarım Şablonu artık EXE içinden güvenle bulunur.",
+    "Vergi Ödemeleri, Müstahsil, Banka ve Akaryakıt ALTOS aktarım ekranlarında şablon erişimi ortak ve güvenli hale getirildi."
   ],
-  "published_at": "2026-08-25 16:17:15",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G11/MaliMusavirProgrami_Update_G11.zip",
-  "package_sha256": "01c0f3ae7b01afa57cfa604c5d1192d0bbe82fc52bda441811502f8450243b48",
-  "package_size": 108979188,
+  "published_at": "2026-08-25 16:50:13",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G12/MaliMusavirProgrami_Update_G12.zip",
+  "package_sha256": "cea95ca336abe87d5a7b1c5055e48df0e7a81f87b80be186875b2237ffbb5b6f",
+  "package_size": 108980205,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "/2AMhgJvCKA8/5JHr1YFVZ4D1+ONY4+tsymgFW93twHjO236dMh0aqWPRXXG6l6X+myGF+JfPnfgtlf/0oodCg=="
+  "signature": "lTxEgn9esYJULWVEgGCwuCuRVBdfohU/g1tpZ6z9Kn+S10YWmKPojzmpKh66YJTWj2r3DX893GSMjdJ2+nb1Cw=="
 }
