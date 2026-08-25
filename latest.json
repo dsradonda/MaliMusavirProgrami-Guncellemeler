@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G10",
-  "title": "G10 Güncellemesi",
+  "version": "G11",
+  "title": "G11 Güncellemesi",
   "notes": [
-    "GÜNCELEME"
+    "G11"
   ],
-  "published_at": "2026-08-23 23:00:51",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G10/MaliMusavirProgrami_Update_G10.zip",
-  "package_sha256": "79522602a65704ac9200a8c024003579e9c5c56c866d10345331b594837bd7c1",
-  "package_size": 108743959,
+  "published_at": "2026-08-25 16:17:15",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G11/MaliMusavirProgrami_Update_G11.zip",
+  "package_sha256": "01c0f3ae7b01afa57cfa604c5d1192d0bbe82fc52bda441811502f8450243b48",
+  "package_size": 108979188,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "N9kkiaOWNHpO9U8aDW+vjmXP/zKBLozh8nSH2Z/x+Zl/PXG5OM+ul0b3XXInLEXxZ2jJDypTKgApQqwP5HmmCQ=="
+  "signature": "/2AMhgJvCKA8/5JHr1YFVZ4D1+ONY4+tsymgFW93twHjO236dMh0aqWPRXXG6l6X+myGF+JfPnfgtlf/0oodCg=="
 }
