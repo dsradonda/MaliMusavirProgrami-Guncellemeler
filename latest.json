@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G14",
-  "title": "G14 Güncellemesi",
+  "version": "G15",
+  "title": "G15 Güncellemesi",
   "notes": [
     "WEB"
   ],
-  "published_at": "2026-08-26 14:43:32",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G14/MaliMusavirProgrami_Update_G14.zip",
-  "package_sha256": "54dd52d1383bd3ac9fe011d1b808fd8df1bfa5ebb11069719533e502cbb69a38",
-  "package_size": 109076040,
+  "published_at": "2026-08-26 15:22:26",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G15/MaliMusavirProgrami_Update_G15.zip",
+  "package_sha256": "da5c76e6a28aaff13f7c1c994b24be021af3f496a60df52ed617e528717fd557",
+  "package_size": 109086059,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "nyCgDl3iNH9cbs64UW1LQ1UmmOggY9hkuGZi52drdGUBKFhRreaSPn3D9TR1Z2TxciGXJv27zl1EB2kzaR+ADw=="
+  "signature": "UaOuyJJSANkyGKZ/77KCPXOcuw2oXeTZNWyFqnMM+W+SofTxDg4kA1RNWi+Ulz0mv3d8bhvFEI81rmOMymygDw=="
 }
