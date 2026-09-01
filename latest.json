@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G17",
-  "title": "G17 Güncellemesi",
+  "version": "G18",
+  "title": "G18 Güncellemesi",
   "notes": [
-    "MUHAMMED"
+    "muhammed"
   ],
-  "published_at": "2026-08-31 19:23:08",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G17/MaliMusavirProgrami_Update_G17.zip",
-  "package_sha256": "da9b49031c72306b0b033971454b78ebc6b6a83226de51d49372c433c7586dea",
-  "package_size": 109442287,
+  "published_at": "2026-09-01 15:21:29",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G18/MaliMusavirProgrami_Update_G18.zip",
+  "package_sha256": "115e85bb613d66f1d351125719a27c9de9340d0f3990e509dfb31580b6053405",
+  "package_size": 109468314,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "KDX7r/rm6NZGnSiFmvJFv8mQuC7XrXNhAZij0mpstHyfgtOWPDLq2weXTzBgCATgE0p9Rw4KT9IVvYyNx2GsDg=="
+  "signature": "ekmxUUPgrw7IblBDKD36+c5flc23J7/6HsaVh+bc2dG1MY7+eyCBB33jBqXW3Ekq8zhmwDgBKsbzgcLgi57QCw=="
 }
