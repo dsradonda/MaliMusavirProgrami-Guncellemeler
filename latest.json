@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G19",
-  "title": "G19 Güncellemesi",
+  "version": "G20",
+  "title": "G20 Güncellemesi",
   "notes": [
-    "19"
+    "müstahisl"
   ],
-  "published_at": "2026-09-02 09:20:56",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G19/MaliMusavirProgrami_Update_G19.zip",
-  "package_sha256": "d68efc95d6b8fe1ed227b01e79881d2ef4193c0331f939e97c3d5ca9cfb93a4a",
-  "package_size": 109552721,
+  "published_at": "2026-09-03 23:02:42",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G20/MaliMusavirProgrami_Update_G20.zip",
+  "package_sha256": "0e46f69bc851eb3840ac7024b26282c36af27257c006c2c87f8b5f2d6d0f4d08",
+  "package_size": 109591744,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "7Ag5zappejJvHM2lx62IU00bGCjktnWaH3zKm5yyUShdl64ZA3rqGo0dpBTGTvJ1P2YQ2BSTQXnjeWm/4hHaDQ=="
+  "signature": "ZyTDd3QX451Y4p4NFHSSFH6SChX3XCIX9jO9dLGF2Zy7zDPM/S25vYVJ40RC6PduUqq5tbmCeG3uIoK+V3rWCA=="
 }
