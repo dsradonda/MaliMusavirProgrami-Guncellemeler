@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G21",
-  "title": "G21 Güncellemesi",
+  "version": "G22",
+  "title": "G22 Güncellemesi",
   "notes": [
-    "g22"
+    "HATA GİDERİLDİ"
   ],
-  "published_at": "2026-09-06 10:30:23",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G21/MaliMusavirProgrami_Update_G21.zip",
-  "package_sha256": "54235beb817244805c0a54000a47a741d73beb6f572c4ff8d965ab45fd0fee49",
-  "package_size": 109669753,
+  "published_at": "2026-09-07 13:35:13",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G22/MaliMusavirProgrami_Update_G22.zip",
+  "package_sha256": "bebcb4737b94a916a649fea287b13bde35aecd1997973c80b7ad48cd15d72586",
+  "package_size": 109727026,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "SxpR5ww/W9xp85/QrK2fW3/Pci0DiUQem8wrq8rHdW0PvLLoxoN0Fg4rgPazW3UIEjHgqb6iSYsXwYlqwYiADw=="
+  "signature": "3liTnJX+GwsQCQULk9i1loRVJVECY4r3xig1Z7vjb/jtI6yRbYVByAlzlOmcwaqJ2UhWflrxkEjN5P9h0c1QBQ=="
 }
