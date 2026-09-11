@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G24",
-  "title": "G24 Güncellemesi",
+  "version": "G25",
+  "title": "G25 Güncellemesi",
   "notes": [
-    "g24 geçildi"
+    "G25"
   ],
-  "published_at": "2026-09-10 09:23:56",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G24/MaliMusavirProgrami_Update_G24.zip",
-  "package_sha256": "2041ec62ef4c36e6e5c02206151fea7b2ed930b0ac264e050a7d7c41f02a2635",
-  "package_size": 109856052,
+  "published_at": "2026-09-11 22:36:00",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G25/MaliMusavirProgrami_Update_G25.zip",
+  "package_sha256": "680ee913a077cb168f1b7a310ecedca84214e970eac29bc87f1e1200ac1392f7",
+  "package_size": 110169979,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "07TihGPGNGhNOwW40a3z4MWs96nzP0WnHT9jlC725yeEdvdBE6ofBWoWbaEK0DAg36I2W9nGxsLs7/0hPciwCA=="
+  "signature": "TY2T2CHU0v/fuxThIfO7YBOLtr7BCPeYB1ugO7RFZK8QhnsSLN4gbe2QC98i2KY5O3ybYnxGJw6/pOBuIi0wCQ=="
 }
