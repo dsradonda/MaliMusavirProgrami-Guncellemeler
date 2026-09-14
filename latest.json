@@ -1,16 +1,20 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G26",
-  "title": "G26 Güncellemesi",
+  "version": "G27",
+  "title": "G27 Güncellemesi",
   "notes": [
-    "diğer evraklar"
+    "Program güncellendi ve doğrulandı. Yeni sürümde:",
+    "Bilanço, İşletme Defteri, Müstahsil Makbuzu ve Basit Usul onayları aynı ofis içinde otomatik eşitlenir.",
+    "Murat onayladığında Muhammed’in eşleştirilmiş programına yaklaşık 20 saniye içinde iner.",
+    "Tam yedekleme kapalı olsa bile bu hafif “onaylı kayıt” eşitlemesi çalışır.",
+    "Başka ofisler bu kayıtları göremez."
   ],
-  "published_at": "2026-09-14 09:32:01",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G26/MaliMusavirProgrami_Update_G26.zip",
-  "package_sha256": "55a6e2d56c38fd411b19853887e523769c1879929c8e3f5c1b9f1843d75e923f",
-  "package_size": 110228969,
+  "published_at": "2026-09-14 16:18:14",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G27/MaliMusavirProgrami_Update_G27.zip",
+  "package_sha256": "522cd43bb58f12e28638633a0bf39a0be5cd068d0939c817be18ed42dcfe56e4",
+  "package_size": 110245679,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "nDF231epqQt5wJfkItu7CxFC3HxpIJywrCsKn8Z8QoS6eStVLw52hhsb+/QGDcl18QyE3NAlabIWXdjolbe6Cg=="
+  "signature": "SzjJkn1sTI6YCGGdyRnioQWH24dKf4KOCDEvBsbDU7MSxIYaMrjoiLwZyrKnlu0iZgWSzJ+Mi5JIeD6d1Dr6Aw=="
 }
