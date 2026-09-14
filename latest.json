@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G25",
-  "title": "G25 Güncellemesi",
+  "version": "G26",
+  "title": "G26 Güncellemesi",
   "notes": [
-    "G25"
+    "diğer evraklar"
   ],
-  "published_at": "2026-09-11 22:36:00",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G25/MaliMusavirProgrami_Update_G25.zip",
-  "package_sha256": "680ee913a077cb168f1b7a310ecedca84214e970eac29bc87f1e1200ac1392f7",
-  "package_size": 110169979,
+  "published_at": "2026-09-14 09:32:01",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G26/MaliMusavirProgrami_Update_G26.zip",
+  "package_sha256": "55a6e2d56c38fd411b19853887e523769c1879929c8e3f5c1b9f1843d75e923f",
+  "package_size": 110228969,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "TY2T2CHU0v/fuxThIfO7YBOLtr7BCPeYB1ugO7RFZK8QhnsSLN4gbe2QC98i2KY5O3ybYnxGJw6/pOBuIi0wCQ=="
+  "signature": "nDF231epqQt5wJfkItu7CxFC3HxpIJywrCsKn8Z8QoS6eStVLw52hhsb+/QGDcl18QyE3NAlabIWXdjolbe6Cg=="
 }
