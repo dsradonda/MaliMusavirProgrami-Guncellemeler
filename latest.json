@@ -1,19 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G28",
-  "title": "G28 Ofis Ici Onaylanan Kayit Esitlemesi",
+  "version": "G29",
+  "title": "G29 Güncellemesi",
   "notes": [
-    "Onaylanan bilanco ve isletme defteri gelir/gider kayitlari ayni ofisteki bilgisayarlar arasinda 20 saniyede bir otomatik esitlenir.",
-    "Karsi bilgisayara indirilen kayitlar acik Onaylanan Giderler ve Onaylanan Gelirler ekraninda kendiliginden gorunur.",
-    "Cevrim ici merkez kayit esitleme hatalari artik gizlenmez; baglanti kurulana kadar yeniden denenir.",
-    "Yedekleme ekraninda genel yedekleme suresi ile 20 saniyelik onayli kayit esitlemesi ayri ve acik bicimde gosterilir."
+    "g29"
   ],
-  "published_at": "2026-09-14 21:09:39",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G28/MaliMusavirProgrami_Update_G28.zip",
-  "package_sha256": "e2427d0d40b5913677041c18fd8ada3a4c1c85c4b76a95f2221f77016f1e995c",
-  "package_size": 111321428,
+  "published_at": "2026-09-15 22:40:05",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G29/MaliMusavirProgrami_Update_G29.zip",
+  "package_sha256": "53ca698a77dece2482c02191f7435994c3c58c3300d2f839a4919e51cb0ccfbd",
+  "package_size": 110246388,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "bTlVJaQ7uPLnTI/uq1/ZLA7I9NdVxE6nNLpWa5Ww8g6IoOVzBcZQ+pom9N8NDdrUra/ra04MIFk+pw4T4ITpCQ=="
+  "signature": "b8CwMXUP78cnBl7P4oduo2dnc5XmSSR8dH5F9pDOfk8AaqmpugR6CSqXehEofz0f+D4hjk3jjJaVcyfapfKcCA=="
 }
