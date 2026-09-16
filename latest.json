@@ -1,17 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G30",
-  "title": "G30 Güncellemesi",
+  "version": "G31",
+  "title": "G31 Güncellemesi",
   "notes": [
-    "Artık bu “Onaylanan Giderler” ve “Onaylanan Gelirler” penceresi açıkken, seçili firmanın yeni kayıtları 20 saniyede bir otomatik yenilenir. Başlıkta da “Canlı aktarım — 20 sn’de bir güncellenir” yazacak.",
-    "Firma değiştirince de yalnız seçtiğiniz firmanın kayıtları gelir."
+    "güncelleme"
   ],
-  "published_at": "2026-09-15 22:54:42",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G30/MaliMusavirProgrami_Update_G30.zip",
-  "package_sha256": "7f67842dc4cbadcab71bf5e2f3bf89f05246887866bb9928bdd60ea0b2e8ddf6",
-  "package_size": 110246673,
+  "published_at": "2026-09-16 08:59:10",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G31/MaliMusavirProgrami_Update_G31.zip",
+  "package_sha256": "64b6162f68d850d41fe51b5a83d1cb1939000f239b8d67585371a7d8957f1296",
+  "package_size": 110249400,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "0xQrFIhrW7+7ONno0/5z2+NrDKXE/agPy/awFePzA2/7no6nF3EDjrlSs8wVosYnQB1FrZ7lOpYIGufV6HAkDw=="
+  "signature": "OEVxZGlpLG/kVuq6toK4jJoBRXl3POvHdw7hK51hUakRDT6aIFhcf3B8eXwk86UVxKgOhKXQ3VETctOlGlEkDA=="
 }
