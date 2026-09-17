@@ -1,16 +1,21 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G31",
-  "title": "G31 Güncellemesi",
+  "version": "G32",
+  "title": "G32 Güncellemesi",
   "notes": [
-    "güncelleme"
+    "Tümünü Tikle → ▦ Ürün Bazlı: Tikli faturaların hepsi yüzde penceresiyle ürün bazlı açılır.",
+    "Zaten açık olanlar yeniden okunmaz, ürünlere gelmiş hesap kodları silinmez.",
+    "\"İşlenmeyecek\" ve nihai tüketici faturaları atlanır.",
+    "Ürün satırı okunamayan faturalar değiştirilmez ve sonda liste halinde gösterilir.",
+    "Tikler kaldırılmaz, aynı seçimle sonraki adıma geçebilirsiniz.",
+    "Açılan faturaların durumu \"Kontrol edildi\" olur."
   ],
-  "published_at": "2026-09-16 08:59:10",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G31/MaliMusavirProgrami_Update_G31.zip",
-  "package_sha256": "64b6162f68d850d41fe51b5a83d1cb1939000f239b8d67585371a7d8957f1296",
-  "package_size": 110249400,
+  "published_at": "2026-09-17 08:45:33",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G32/MaliMusavirProgrami_Update_G32.zip",
+  "package_sha256": "3ba9bceb0e0e67973747244dc565492d107c873546f886182d45ccdce5b05fbb",
+  "package_size": 110345743,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "OEVxZGlpLG/kVuq6toK4jJoBRXl3POvHdw7hK51hUakRDT6aIFhcf3B8eXwk86UVxKgOhKXQ3VETctOlGlEkDA=="
+  "signature": "H44HakVZsVtzYp7LMPLtOPEZriuC6D+8DVVaTJCFW1t4WwQNRr9IDyZ//WfvGZXljSmjUvOUSgQyiBpZAQHkAw=="
 }
