@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G36",
-  "title": "G36 Güncellemesi",
+  "version": "G37",
+  "title": "G37 Güncellemesi",
   "notes": [
-    "g36 yayınladfd"
+    "G38"
   ],
-  "published_at": "2026-09-23 10:00:06",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G36/MaliMusavirProgrami_Update_G36.zip",
-  "package_sha256": "8dd996a156859eeac613c974e53b9a0d2aef07276dc86dfa8e2f70ea57695cb4",
-  "package_size": 110834553,
+  "published_at": "2026-09-23 11:21:45",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G37/MaliMusavirProgrami_Update_G37.zip",
+  "package_sha256": "04aaa09d3fa7d70533ca848c97177aacfe3627050e5db04c004e2e1bba250fe4",
+  "package_size": 110836807,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "tFkKU2y0xO1fR2rvJhveHpZoNh1iygbQF2guJ2f+QpkkDe9Yj6Ems9Tnq7ZGt7SfN+kQrl7NiqnQebpBI4b4AQ=="
+  "signature": "qkCVrqQABuFctSK3g3Q/A/YvHIBkw/OviKK/GU1xsPbXzUS5SPYR3TAXH+JYhMSIu4XYd2hlUt420ryrgz/fDw=="
 }
