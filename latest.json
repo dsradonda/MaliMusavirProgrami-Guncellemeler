@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G39",
-  "title": "G39 Güncellemesi",
+  "version": "G40",
+  "title": "G40 Güncellemesi",
   "notes": [
-    "MÜSTAHSİL MAKBUZ İŞLEME EKLEDNDİ"
+    "ÇLÇELEME"
   ],
-  "published_at": "2026-09-26 12:04:23",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G39/MaliMusavirProgrami_Update_G39.zip",
-  "package_sha256": "cb297bc1c3501a1545d20da6c0b320dc4b222f96e85a2584d7f7cd0d2e524ad2",
-  "package_size": 111536727,
+  "published_at": "2026-09-26 17:21:18",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G40/MaliMusavirProgrami_Update_G40.zip",
+  "package_sha256": "cbee3e5509f2d4f1ee09c36a5f192349fbfd82cd0484f45e8fd3728633d3213f",
+  "package_size": 111547713,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "p5KYZji4uK3dtKGlUyeHP7fyl+MLfrt3dYhBj8PflabVrdpET/cm8B08JpVr2aspot8uNs1NqNpMTZuG3gyFBw=="
+  "signature": "1Sk7KN0iFoRxVIHXme+z2HI+q+rD/XvAz2BagC6kYMa0qZhGFQYeQtARRvz1mU/ATMmpdo6iYg4kSFax/UqjDw=="
 }
