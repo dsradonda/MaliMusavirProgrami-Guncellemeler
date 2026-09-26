@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G38",
-  "title": "G38 Güncellemesi",
+  "version": "G39",
+  "title": "G39 Güncellemesi",
   "notes": [
-    "İşletme Defteri › Gelir/Gider İşleme'deki düğme sırasına, \"▦ Ürün Bazlı\"nın hemen sağına \"◈ Demirbaş\" düğmesini eklendi."
+    "MÜSTAHSİL MAKBUZ İŞLEME EKLEDNDİ"
   ],
-  "published_at": "2026-09-24 15:48:53",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G38/MaliMusavirProgrami_Update_G38.zip",
-  "package_sha256": "5ec864a1db0a25203ad95bebcc04c06c2cb9a235bab1dbea4abd5bb54b7abc1a",
-  "package_size": 110860119,
+  "published_at": "2026-09-26 12:04:23",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G39/MaliMusavirProgrami_Update_G39.zip",
+  "package_sha256": "cb297bc1c3501a1545d20da6c0b320dc4b222f96e85a2584d7f7cd0d2e524ad2",
+  "package_size": 111536727,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "vBjevWkTfMM8rRUDQ5CcxI5APjIAPGN4eV3G7iWOxt72OC5hwwi6MMTwQSAGG6FdNEKFAHqUDFf8a0T32o8zAw=="
+  "signature": "p5KYZji4uK3dtKGlUyeHP7fyl+MLfrt3dYhBj8PflabVrdpET/cm8B08JpVr2aspot8uNs1NqNpMTZuG3gyFBw=="
 }
