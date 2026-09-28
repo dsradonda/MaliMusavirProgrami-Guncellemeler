@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G40",
-  "title": "G40 Güncellemesi",
+  "version": "G41",
+  "title": "G41 Güncellemesi",
   "notes": [
-    "ÇLÇELEME"
+    "baka kayıtları düzeltitldi. kıdem veya ihbar tazminatı işleme geldi."
   ],
-  "published_at": "2026-09-26 17:21:18",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G40/MaliMusavirProgrami_Update_G40.zip",
-  "package_sha256": "cbee3e5509f2d4f1ee09c36a5f192349fbfd82cd0484f45e8fd3728633d3213f",
-  "package_size": 111547713,
+  "published_at": "2026-09-28 11:55:19",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G41/MaliMusavirProgrami_Update_G41.zip",
+  "package_sha256": "4ed1a50e7d0c69dd5ad9187a640b2ed2800d3e220e92ee7c1c7fcd2c22edbbd6",
+  "package_size": 111887467,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "1Sk7KN0iFoRxVIHXme+z2HI+q+rD/XvAz2BagC6kYMa0qZhGFQYeQtARRvz1mU/ATMmpdo6iYg4kSFax/UqjDw=="
+  "signature": "c6oyOUIIDNJaSrO3RYRpSZSzslSC06Bj0Frn3BF7VEUNNrQWVMnCQ73W1Tu/o6QWjZa/NMAXDVGGVfZs+oU7Dg=="
 }
