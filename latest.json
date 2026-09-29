@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G41",
-  "title": "G41 Güncellemesi",
+  "version": "G42",
+  "title": "G42 Güncellemesi",
   "notes": [
-    "baka kayıtları düzeltitldi. kıdem veya ihbar tazminatı işleme geldi."
+    "OKC FİŞLERİ YAPAY ZEKA İLETME. BANKA VİRMA İŞLEMLERİ DÜZENLENDİ"
   ],
-  "published_at": "2026-09-28 11:55:19",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G41/MaliMusavirProgrami_Update_G41.zip",
-  "package_sha256": "4ed1a50e7d0c69dd5ad9187a640b2ed2800d3e220e92ee7c1c7fcd2c22edbbd6",
-  "package_size": 111887467,
+  "published_at": "2026-09-29 11:01:23",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G42/MaliMusavirProgrami_Update_G42.zip",
+  "package_sha256": "1bff8dce4eac8e0c1ea861d78b8978ef3eef0ef53025904f2b0e21cc4d49c133",
+  "package_size": 111900102,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "c6oyOUIIDNJaSrO3RYRpSZSzslSC06Bj0Frn3BF7VEUNNrQWVMnCQ73W1Tu/o6QWjZa/NMAXDVGGVfZs+oU7Dg=="
+  "signature": "C2KWxVyFtZyFe28l2eT5iiyqTmyuZstmxBqNR+Qu0PkrdgdCD2rfzagPPmVWCHljEnDbrer+WaWwUZyJQNaeDA=="
 }
