@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G42",
-  "title": "G42 Güncellemesi",
+  "version": "G43",
+  "title": "G43 Güncellemesi",
   "notes": [
-    "OKC FİŞLERİ YAPAY ZEKA İLETME. BANKA VİRMA İŞLEMLERİ DÜZENLENDİ"
+    "ürün bazlı işleme geliştirildi."
   ],
-  "published_at": "2026-09-29 11:01:23",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G42/MaliMusavirProgrami_Update_G42.zip",
-  "package_sha256": "1bff8dce4eac8e0c1ea861d78b8978ef3eef0ef53025904f2b0e21cc4d49c133",
-  "package_size": 111900102,
+  "published_at": "2026-09-29 14:50:56",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G43/MaliMusavirProgrami_Update_G43.zip",
+  "package_sha256": "c893ea4159f7cfd13fa1d8e61d60c342c91cbe408e29a43c0571bb74cb73d3fb",
+  "package_size": 111961629,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "C2KWxVyFtZyFe28l2eT5iiyqTmyuZstmxBqNR+Qu0PkrdgdCD2rfzagPPmVWCHljEnDbrer+WaWwUZyJQNaeDA=="
+  "signature": "njoyre127rvxxz/YiPlUMJSyAahWPPhKiUXVGaYmwg/otvVacyfZY/Hwv7i8SBkBSOejPtWBGSzPWE2Zd1wEAQ=="
 }
