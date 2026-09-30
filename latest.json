@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G43",
-  "title": "G43 Güncellemesi",
+  "version": "G44",
+  "title": "G44 Güncellemesi",
   "notes": [
-    "ürün bazlı işleme geliştirildi."
+    "ürün bazlı işleme ve faturada açıklamalara göre geliştirildi."
   ],
-  "published_at": "2026-09-29 14:50:56",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G43/MaliMusavirProgrami_Update_G43.zip",
-  "package_sha256": "c893ea4159f7cfd13fa1d8e61d60c342c91cbe408e29a43c0571bb74cb73d3fb",
-  "package_size": 111961629,
+  "published_at": "2026-09-30 09:31:37",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G44/MaliMusavirProgrami_Update_G44.zip",
+  "package_sha256": "12807265110b0926d4186a58f97acc495738a5e47cc91713ed2d805ab9d974a4",
+  "package_size": 112034456,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "njoyre127rvxxz/YiPlUMJSyAahWPPhKiUXVGaYmwg/otvVacyfZY/Hwv7i8SBkBSOejPtWBGSzPWE2Zd1wEAQ=="
+  "signature": "QWjEsAUaYXsOD3h8c39hrIp8p4p520ewVyHOcH0suZ7glsaI3iJHiVeaZ/FsRh3louCygeWTM7sFWd8TFBCpAA=="
 }
