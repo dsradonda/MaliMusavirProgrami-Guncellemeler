@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G45",
-  "title": "G45 Güncellemesi",
+  "version": "G46",
+  "title": "G46 Güncellemesi",
   "notes": [
-    "45"
+    "G 46"
   ],
-  "published_at": "2026-10-03 13:50:19",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G45/MaliMusavirProgrami_Update_G45.zip",
-  "package_sha256": "a3dba57bbd9f0ee25ddbff6db45d968ba3f15ac7f9d85bf399f8c6e51c411fdf",
-  "package_size": 115378939,
+  "published_at": "2026-10-04 23:08:48",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G46/MaliMusavirProgrami_Update_G46.zip",
+  "package_sha256": "ce8f50d22e4c6582a988ecd9d56e525017884b1fc18048af106dd22474c9762c",
+  "package_size": 115814697,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "7pSVNxL2ME4lWMrei3m21ol8H9BluOUUS6lOxSz9XxUJT+/GVGVspdAtzHEhhhInv+1WYkTn7d26cJKxGFKgDQ=="
+  "signature": "iTicdP7acbHtnobg2K+liyOtQv83HKNnQJjigmmtjE67YRvE/8bs2TDfNjWAAisGkLpgfDOASg5G2JfYVPfoAg=="
 }
