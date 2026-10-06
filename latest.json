@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G46",
-  "title": "G46 Güncellemesi",
+  "version": "G47",
+  "title": "G47 Güncellemesi",
   "notes": [
-    "G 46"
+    "WHATSAP ASİSTANI YAPILDI"
   ],
-  "published_at": "2026-10-04 23:08:48",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G46/MaliMusavirProgrami_Update_G46.zip",
-  "package_sha256": "ce8f50d22e4c6582a988ecd9d56e525017884b1fc18048af106dd22474c9762c",
-  "package_size": 115814697,
+  "published_at": "2026-10-06 11:17:20",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G47/MaliMusavirProgrami_Update_G47.zip",
+  "package_sha256": "af3360707940b108f55500aafbb7b725193d87a6d7f30b2a2fdb8138e1faf390",
+  "package_size": 116035626,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "iTicdP7acbHtnobg2K+liyOtQv83HKNnQJjigmmtjE67YRvE/8bs2TDfNjWAAisGkLpgfDOASg5G2JfYVPfoAg=="
+  "signature": "i7Ac0Rb2K5nDwEDuqCHICS6QEcuq7rARdWbCaXlPUUOjJyyUqzduludY84Zh434zKz8ApDZ+cq+/nhtISt8jAA=="
 }
