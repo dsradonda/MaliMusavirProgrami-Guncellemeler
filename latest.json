@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G48",
-  "title": "G48 Güncellemesi",
+  "version": "G49",
+  "title": "G49 Güncellemesi",
   "notes": [
-    "güncelememe"
+    "49"
   ],
-  "published_at": "2026-10-08 12:45:31",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G48/MaliMusavirProgrami_Update_G48.zip",
-  "package_sha256": "c8be80d16db4b002930f04b11add28246148592c6c5b3c98829f4e9f889db4f5",
-  "package_size": 116577283,
+  "published_at": "2026-10-11 23:33:56",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G49/MaliMusavirProgrami_Update_G49.zip",
+  "package_sha256": "b97f2b748d96f5908b12c13da2cd091f4865f07255a02be090e0ec31610bd456",
+  "package_size": 117027285,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "9T6aDAXRooME5MeLZ87nT0fm/EGIlDuQ+JaKNkPwuGiNGuLAGesVQ0Z3dM/mOBjB+ZI4h4qRAnNEvMJ0EbwvDQ=="
+  "signature": "S/mBzqM6nyhQLuaXgW329V8QxMMMUr7kftMMSDZEaTCKtyHmDa4XZ2yFwOYl8zxW+D/5lfiRh0UMdZUeWEfkAg=="
 }
