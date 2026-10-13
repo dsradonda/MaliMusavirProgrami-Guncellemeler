@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G50",
-  "title": "G50 Güncellemesi",
+  "version": "G51",
+  "title": "G51 Güncellemesi",
   "notes": [
-    "50"
+    "ortak hafıza merkezi gelişti"
   ],
-  "published_at": "2026-10-13 14:18:02",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G50/MaliMusavirProgrami_Update_G50.zip",
-  "package_sha256": "f07b15f3894cd22af47798147c3a8309642a9bc5c9f455a4f74ebdc71b514d0a",
-  "package_size": 117220447,
+  "published_at": "2026-10-13 15:42:19",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G51/MaliMusavirProgrami_Update_G51.zip",
+  "package_sha256": "a9795584f5fbedd202a9e6875ef4f95345c4bb66efb957a81b1a23363354b0b6",
+  "package_size": 117232030,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "T9LoptF0LHiE3V+skx49TKaBGZTEgBf6KcmEX23qFBEO00tj5zz+KcJesfrfzpOvRRbl+9GkZmeiFVgBtWITAQ=="
+  "signature": "7wtB9B8y4/djCVR+mf5WY55ncrUsYWQd19SCMzdE+xtzluOxa+acUMOrWFq7rDcbru8slWUmLycEYsWWfWVFBQ=="
 }
