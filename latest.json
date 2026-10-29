@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G127",
-  "title": "G127 Güncellemesi",
+  "version": "G140",
+  "title": "G140 Güncellemesi",
   "notes": [
-    "126"
+    "gEÇİCİ vERGİ"
   ],
-  "published_at": "2026-10-26 22:27:15",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G127/MaliMusavirProgrami_Update_G127.zip",
-  "package_sha256": "ce7a0eead5c7985f5399cb30a66b8e54f26bfa75e6117a2e4be635877f34a19e",
-  "package_size": 118999126,
+  "published_at": "2026-10-29 18:03:54",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G140/MaliMusavirProgrami_Update_G140.zip",
+  "package_sha256": "8ced3638ba5498bb8b2381f8d5ba9e37220a58d5e61a7f7890b7eb820e5bc8d5",
+  "package_size": 119612899,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "k8ZsJFZxNv/Y5gucsdwcnaXHte4Fwl0mFTbedqJBxlVYShVyfrvO+AwNvKmHkrMZws7sSPJvJk8QVf52cWMgCQ=="
+  "signature": "O7d5q79aeDg5CT4DnBdUuQ6uRekJro8hKXMm7LBMWBBGRsRc2/8UyAnrhW5ViJ2+Qmc4DUTnrGUZjlE8MTsADw=="
 }
