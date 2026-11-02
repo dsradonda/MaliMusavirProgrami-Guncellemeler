@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G140",
-  "title": "G140 Güncellemesi",
+  "version": "G148",
+  "title": "G148 Güncellemesi",
   "notes": [
-    "gEÇİCİ vERGİ"
+    "VERGİ ÖDEMELERİ"
   ],
-  "published_at": "2026-10-29 18:03:54",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G140/MaliMusavirProgrami_Update_G140.zip",
-  "package_sha256": "8ced3638ba5498bb8b2381f8d5ba9e37220a58d5e61a7f7890b7eb820e5bc8d5",
-  "package_size": 119612899,
+  "published_at": "2026-11-02 11:07:15",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G148/MaliMusavirProgrami_Update_G148.zip",
+  "package_sha256": "54d32d7a0e1c59e1d577ae8196a0d2d43de7719a2a5118a49f411628834b7e59",
+  "package_size": 120023288,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "O7d5q79aeDg5CT4DnBdUuQ6uRekJro8hKXMm7LBMWBBGRsRc2/8UyAnrhW5ViJ2+Qmc4DUTnrGUZjlE8MTsADw=="
+  "signature": "Vp4KBVSLwt5lULiIpVdDjj+u503RaokJMkXy0WTlew59rr43GK7SnMpz/7SFrpHUc0xkPuDdnsdI9PjGOJ+TBw=="
 }
