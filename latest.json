@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G150",
-  "title": "G150 Güncellemesi",
+  "version": "G154",
+  "title": "G154 Güncellemesi",
   "notes": [
-    "vergi ödemeleri"
+    "yedek"
   ],
-  "published_at": "2026-11-02 18:39:56",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G150/MaliMusavirProgrami_Update_G150.zip",
-  "package_sha256": "3b9df88415e29a92ad168dd2d6d0c5b89d60146a300ed531cee57d200b09e8df",
-  "package_size": 120028792,
+  "published_at": "2026-11-03 11:19:32",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G154/MaliMusavirProgrami_Update_G154.zip",
+  "package_sha256": "1a0e3e633ee5596fbf2d03c8a9d8aa138b8331e98e15e1380ad4ef22be0c6870",
+  "package_size": 120086076,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "2csP95VBdfNPsZJN/ss54gujzfq+Ygo5BBpmUOjneL3gEpkRSyhTxXe+JgPlI36GfJ11xHK6a5CNAQLGJWRhDA=="
+  "signature": "4KYTrh64/lWvV9jahY4DZcLqfKfIkAgy/ZJsWlPdqzPLtz/qoK6RDug5YOp2/e5Xjc9t6N6EyaH93D64/2VGDg=="
 }
