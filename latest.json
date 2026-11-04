@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G154",
-  "title": "G154 Güncellemesi",
+  "version": "G160",
+  "title": "G160 Güncellemesi",
   "notes": [
-    "yedek"
+    "160"
   ],
-  "published_at": "2026-11-03 11:19:32",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G154/MaliMusavirProgrami_Update_G154.zip",
-  "package_sha256": "1a0e3e633ee5596fbf2d03c8a9d8aa138b8331e98e15e1380ad4ef22be0c6870",
-  "package_size": 120086076,
+  "published_at": "2026-11-04 16:17:24",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G160/MaliMusavirProgrami_Update_G160.zip",
+  "package_sha256": "105fdf069b373e8084175998fda2600d46a4f969957d1eb341a7e99b36a1c2b2",
+  "package_size": 120293780,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "4KYTrh64/lWvV9jahY4DZcLqfKfIkAgy/ZJsWlPdqzPLtz/qoK6RDug5YOp2/e5Xjc9t6N6EyaH93D64/2VGDg=="
+  "signature": "+G1PUA8NGWg4cbzEWakVlH7w7RQPyqPYC55lIQ0Ik/lcmUgD1C1hwci197deSeVNhIvYbt6OAEoaVfWiGQcVBA=="
 }
