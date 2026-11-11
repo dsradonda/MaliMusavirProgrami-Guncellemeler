@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G161",
-  "title": "G161 Güncellemesi",
+  "version": "G171",
+  "title": "G171 Güncellemesi",
   "notes": [
-    "güncleme"
+    "171"
   ],
-  "published_at": "2026-11-09 14:10:03",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G161/MaliMusavirProgrami_Update_G161.zip",
-  "package_sha256": "8b3c6e18fd05b59a73bc63ecd3654c775ccee8d400382f6ba098fad252b43955",
-  "package_size": 120447421,
+  "published_at": "2026-11-11 12:15:10",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G171/MaliMusavirProgrami_Update_G171.zip",
+  "package_sha256": "be76a8fdee38a30ef04180f94dd740a61bab66b5899c15a48a368c13d35af4db",
+  "package_size": 120484186,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "CFMh4wVMncol1IJJk4t7UkKMKhW3UPPoIeYhXkyz2sURQanG12O6FN0iayIv7ezC1Rh4LAY/7N4tpMGCwwNcAA=="
+  "signature": "MkR3tXD+2+OPeV23vs/PFDxHOkKtGvmHVsPHFaFbQfyMM481p8N54NIIfzOn6UjFD4zHOr2aAJrz1NtWKB3VAw=="
 }
