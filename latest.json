@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G177",
-  "title": "G177 Güncellemesi",
+  "version": "G180",
+  "title": "G180 Güncellemesi",
   "notes": [
-    "177"
+    "180"
   ],
-  "published_at": "2026-11-13 22:41:23",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G177/MaliMusavirProgrami_Update_G177.zip",
-  "package_sha256": "49a9c2c1e546f20df26188e411d53b7a28ebe542ae141d27100851431b6d7ea6",
-  "package_size": 120876045,
+  "published_at": "2026-11-14 18:02:50",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G180/MaliMusavirProgrami_Update_G180.zip",
+  "package_sha256": "7abebf289b8dae4982b81b677e53d1d4c4c7ce5612cea27ba040027ed8d4c774",
+  "package_size": 124330177,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "F8/V1rgnka1DvB3RW0q03HQ4EUMd5Bak879n/wcJniicifhOMzDP7zLtgVvHINfShdDn95jhok5zpOCj9UQPBg=="
+  "signature": "ImeSgHnEESJ1fGuS8LguXo7DXKxdnl+ZkLbdhK0XX+CTkFMB4m5JO+fjrRF/4UuYhgsNxuS7u+2NeF1AX4qjDA=="
 }
