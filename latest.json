@@ -1,23 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G189",
-  "title": "G189 Güncellemesi",
+  "version": "G193",
+  "title": "G193 Güncellemesi",
   "notes": [
-    "GMS.NET Kontrol Merkezi (Bilanço)",
-    "Bağlantı durumunu ve programdaki firmanın GMS.NET’te hangi firmaya eşlendiğini gösterir.",
-    "Ayın fatura fişi sayısını gösterir.",
-    "Hesaplanan (391) ve indirilecek (191) KDV’yi, aradaki ödenecek ya da devreden farkı gösterir.",
-    "Satış ve alış e-fatura sayılarını gösterir.",
-    "Ön kontrol: GMS.NET’te e-faturası olup fişlerde kaydı görünmeyen belgeleri listeler. Liste Excel’e aktarılabilir.",
-    "“GMS.NET İLE KONTROLÜ BAŞLAT”: e-faturaları ve fişleri kartlara alıp Bilanço Kontrolü’nü başlatır.",
-    "İşletme defteri tutan firmalarda çalışmaz, uyarı verir. GMS.NET’e hiçbir şey yazmaz, yalnız okur."
+    "193"
   ],
-  "published_at": "2026-11-17 12:34:58",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G189/MaliMusavirProgrami_Update_G189.zip",
-  "package_sha256": "edbdd1acca9644303be9675490d8f6596b7830293f38b97b6f17df0860b3e668",
-  "package_size": 124642235,
+  "published_at": "2026-11-19 12:06:02",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G193/MaliMusavirProgrami_Update_G193.zip",
+  "package_sha256": "65550fdb83beecce0d527c8d5848432c55b6bea31ddd290377fbc45ca22608ab",
+  "package_size": 126833575,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "n8YcenQN7Tcv+CRMxS0YV+e9y0+UZ/wqWhCYtbGhXQxNcOk3wHZ2q0z+6DnqwoeBx9106/KlaQtAT+JQHL9iAQ=="
+  "signature": "F4M8vQ2e34BE7wG9Ens72EN8v7bSJi9Ya2c6mFlxMQx0R0YKg1cW9nVp5SPJIM42opotUPDn2KmoNhqEIitGBg=="
 }
