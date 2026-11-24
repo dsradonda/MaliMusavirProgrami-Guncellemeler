@@ -1,16 +1,16 @@
 {
   "schema": 1,
   "app_id": "mali-musavir-programi",
-  "version": "G193",
-  "title": "G193 Güncellemesi",
+  "version": "G200",
+  "title": "G200 Güncellemesi",
   "notes": [
-    "193"
+    "200"
   ],
-  "published_at": "2026-11-19 12:06:02",
-  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G193/MaliMusavirProgrami_Update_G193.zip",
-  "package_sha256": "65550fdb83beecce0d527c8d5848432c55b6bea31ddd290377fbc45ca22608ab",
-  "package_size": 126833575,
+  "published_at": "2026-11-24 13:56:04",
+  "package_url": "https://github.com/dsradonda/MaliMusavirProgrami-Guncellemeler/releases/download/G200/MaliMusavirProgrami_Update_G200.zip",
+  "package_sha256": "c3b2aa9daac0e626c8ab906b050f86969132e9d009078f8b0497a6ec14e2c23f",
+  "package_size": 127126861,
   "mandatory": false,
   "signature_algorithm": "Ed25519",
-  "signature": "F4M8vQ2e34BE7wG9Ens72EN8v7bSJi9Ya2c6mFlxMQx0R0YKg1cW9nVp5SPJIM42opotUPDn2KmoNhqEIitGBg=="
+  "signature": "k0BR4Cd5P6qhOofkmsjwwGOEp5mVp5oLoQKmsONesnb5Qs6zarkDuYlNeijpLS4Fv96/5zZZzK43HdKYygKwDw=="
 }
